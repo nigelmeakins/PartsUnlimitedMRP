@@ -1,5 +1,6 @@
 ﻿// For an introduction to the Grid template, see the following documentation:
 // http://go.microsoft.com/fwlink/?LinkID=232446
+//blah blah
 (function () {
     "use strict";
 
