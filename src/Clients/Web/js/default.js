@@ -9,7 +9,8 @@
     var nav = WinJS.Navigation;
     var sched = WinJS.Utilities.Scheduler;
     var ui = WinJS.UI;
-
+    var nige = null;
+    
     app.addEventListener("activated", function (args) {
         try {
             activation = Windows.ApplicationModel.Activation;
